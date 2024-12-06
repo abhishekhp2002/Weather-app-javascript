@@ -21,14 +21,7 @@ A simple and visually appealing weather application that fetches real-time weath
 
 ---
 
-## Screenshots 📸
-![Weather App Preview](./images/screenshot.png)
+## Working Model
 
----
 
-## Installation & Setup 🖥️
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
 
